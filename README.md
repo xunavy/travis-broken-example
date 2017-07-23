@@ -4,4 +4,4 @@ An example that will cause a build failure
 
 Test for travis ci.
 
-Test for ssh.
+Test for ssh with xunavy.
